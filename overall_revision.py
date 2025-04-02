@@ -480,3 +480,5 @@ except:
     print("The file doesn't exist")
 finally:
     f.close()
+
+print("Hello world")
